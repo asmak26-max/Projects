@@ -1,5 +1,10 @@
 # File-Organizer
 
+## Output - 
+
+<img width="2550" height="3300" alt="output" src="https://github.com/user-attachments/assets/4c04fe24-dc41-4c84-8c3f-a70aabff5152" />
+
+
 # 📂 Python File Organizer
 
 A Python automation mini-project for simplifying **file and folder organization**.
